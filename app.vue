@@ -3,9 +3,9 @@
 <template>
   <div>
     <h1>Nuxt Image</h1>
-    <NuxtImg src="wallpaper.jpg" />
+    <NuxtImg src="/wallpaper.jpg" />
     <br>
-    <NuxtPicture src="wallpaper_p.jpg" />
+    <NuxtPicture src="wallpaper.jpg" />
   </div>
 </template>
 
