@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/image"],
   image: {
-    dir:'assets/images',
+    dir:'static/images',
     format:['avif']
   }
 })
